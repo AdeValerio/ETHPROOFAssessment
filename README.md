@@ -1,6 +1,6 @@
 # ETHPROOFAssessment
 # Token Contract 
-The Token Contract demonstrates the basic syntax, functionality and understanding of the developer with Solidity porgramming language. This program is a project for ETH: Proof Assessment.
+The Token Contract demonstrates the basic syntax, functionality and understanding of the developer with Solidity programming language. This program is a project for ETH: Proof Assessment.
 
 ##Description
 The Token Contract is a basic Ethereum token contract designed to provide token creation (minting) and destruction (burning) functionality. Store information about the token, including its name, abbreviation, and total supply. Maintain a mapping of addresses to token balances. Provide a mint function to increase the total supply and the balance of a specified address. Offer a burn function to decrease the total supply and the balance of a specified address
